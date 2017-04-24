@@ -1,0 +1,51 @@
+.wrapper{
+    height:100vh;
+    background: url("../img/login.jpg") no-repeat center center fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.wrapper-alumno{
+    height:100vh;
+    background: url("../img/students.jpg") no-repeat center center fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.wrapper-ptc{
+    height:100vh;
+    background: url("../img/teacher.jpg") no-repeat center center fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.wrapper-horario{
+    height:100vh;
+    background: url("../img/horario.jpg") no-repeat center center fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.wrapper-index{
+    height:100vh;
+    background: url("../img/index.jpg") no-repeat center center fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+
+.wrapper-clase{
+    height:100vh;
+    background: url("../img/clase.jpg") no-repeat center center fixed;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.be-down{
+    margin-top: 10%;
+}
+
+.form{
+    background-color: rgba(251, 251, 251, 0.90);
+    padding: 20px 120px;
+}
